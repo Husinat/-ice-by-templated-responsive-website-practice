@@ -28,7 +28,7 @@ height: 90vh;
 /* background-size: 120%; */
 }
 .all{
-    min-width: 300px !important; /* Prevent excessive shrinking */
+    min-width: 300px !important; 
     font-size: 16px !important; 
 }
 .iced{
